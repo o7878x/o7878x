@@ -36,3 +36,7 @@ A senior front-end developer from China, based in Shenzhen.
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+## Github Stats
+
+[![o7878x's GitHub stats](https://github-readme-stats.vercel.app/api?username=o7878x)](https://github.com/anuraghazra/github-readme-stats)
