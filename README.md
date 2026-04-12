@@ -39,4 +39,4 @@ A senior front-end developer from China, based in Shenzhen.
 
 ## Github Stats
 
-[![o7878x's GitHub stats](https://github-readme-stats.vercel.app/api?username=o7878x)](https://github.com/anuraghazra/github-readme-stats)
+![o7878x's Stats Card](./profile/stats.svg)
