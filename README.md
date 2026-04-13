@@ -40,3 +40,7 @@ A senior front-end developer from China, based in Shenzhen.
 ## Github Stats
 
 ![o7878x's Stats Card](./profile/stats.svg)
+
+## Github Top Languages
+
+![o7878x's Top Languages](./profile/top-langs.svg)
