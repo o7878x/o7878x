@@ -1,4 +1,4 @@
-# Hi, I', o7878x
+# Hi, I'm o7878x
 
 A senior front-end developer from China, based in Shenzhen.
 
