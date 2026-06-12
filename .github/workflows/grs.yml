@@ -38,6 +38,14 @@ jobs:
           options: username=readme-tools&repo=github-readme-stats
           path: profile/pin-readme-tools-github-readme-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Generate snake game card
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            profile/github-contribution-grid-snake.svg
+            profile/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Commit cards
         run: |

@@ -2,6 +2,10 @@
 
 A senior front-end developer from China, based in Shenzhen.
 
+## Github Contribution Grid
+
+![o7878x's Snake Game](./profile/github-contribution-grid-snake.svg)
+
 ## Contact Details
 
 [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://o7878x.github.io)
