@@ -46,16 +46,6 @@ jobs:
           outputs: |
             profile/github-contribution-grid-snake.svg
             profile/github-contribution-grid-snake-dark.svg?palette=github-dark
-      
-      - name: Generate base metrics card
-        uses: lowlighter/metrics@main
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: ${{ github.repository_owner }}
-          template: classic
-          filename: profile/github-base-metrics.svg
-          base: header, activity, community, repositories
-          config_timezone: Asia/Shanghai
 
       - name: Commit cards
         run: |
