@@ -2,7 +2,11 @@
 
 A senior front-end developer from China, based in Shenzhen.
 
-## Github Contribution Details
+## Github Base Metrics
+
+![o7878x's Base Card](./profile/github-base-metrics.svg)
+
+## Github Contribution Grid
 
 ![o7878x's Snake Game](./profile/github-contribution-grid-snake.svg)
 
