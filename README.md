@@ -2,7 +2,7 @@
 
 A senior front-end developer from China, based in Shenzhen.
 
-## Github Contribution Grid
+## Github Contribution Details
 
 ![o7878x's Snake Game](./profile/github-contribution-grid-snake.svg)
 
@@ -12,7 +12,7 @@ A senior front-end developer from China, based in Shenzhen.
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:o8080x@outlook.com)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/o7878x)
 
-## AI
+## AI Tools
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-5786FE?style=for-the-badge&logo=deepseek&logoColor=white)
