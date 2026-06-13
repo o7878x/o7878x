@@ -4,7 +4,7 @@ A senior front-end developer from China, based in Shenzhen.
 
 ## Github Contribution Details
 
-![o7878x's Snake Game](./profile/github-contribution-grid-snake.svg)
+![o7878x's Snake Game](./profile/metrics-snake.svg)
 
 ## Contact Details
 
@@ -58,8 +58,8 @@ A senior front-end developer from China, based in Shenzhen.
 
 ## Github Stats
 
-![o7878x's Stats Card](./profile/stats.svg)
+![o7878x's Stats Card](./profile/metrics-stats.svg)
 
 ## Github Top Languages
 
-![o7878x's Top Languages](./profile/top-langs.svg)
+![o7878x's Top Languages](./profile/metrics-languages.svg)
