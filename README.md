@@ -2,6 +2,8 @@
 
 A senior front-end developer from China, based in Shenzhen.
 
+Github Pages Site: <https://o7878x.github.io/>
+
 ## Github Contribution Details
 
 ![o7878x's Snake Game](./profile/metrics-snake.svg)
