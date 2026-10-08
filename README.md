@@ -4,13 +4,14 @@ A senior front-end developer from China, based in Shenzhen.
 
 Github Pages Site: <https://o7878x.github.io/>
 
-## Github Contribution Details
-
-![o7878x's Snake Game](./profile/metrics-snake.svg)
-
 ## Interesting Sites
 
 - Sliding Block Puzzle In Flutter: <https://sliding-block-puzzle-o7878x.web.app/>
+- Cloudflare Github Pages: <https://o7878x-github-io.pages.dev>
+
+## Github Contribution Details
+
+![o7878x's Snake Game](./profile/metrics-snake.svg)
 
 ## Contact Details
 
